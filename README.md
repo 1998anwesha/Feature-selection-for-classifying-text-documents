@@ -1,2 +1,2 @@
 ### Improving feature selection for text document classification using Correlative Association Score. 
-Please refer to this report for detailed explanattion of CAS calculation and comparison of classification metrics for LSVM and MNB classifiers.
+Please refer to this [report](https://github.com/1998anwesha/Feature-selection-for-classifying-text-documents/blob/master/Algorithm%20for%20computation%20of%20Correlative%20Association%20Score%20pdf%20(1).pdf) for detailed explanattion of CAS calculation and comparison of classification metrics for LSVM and MNB classifiers.
